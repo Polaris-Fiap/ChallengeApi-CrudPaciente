@@ -32,3 +32,6 @@ json:
     }
 }
 ```
+
+<p>url: </p>
+<a>http://localhost:8080/api/paciente</a>
